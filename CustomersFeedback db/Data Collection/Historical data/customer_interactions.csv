@@ -1,0 +1,1001 @@
+interaction_id,customer_id,interaction_type
+1,226,Phone Call
+2,313,In-Person
+3,200,In-Person
+4,375,In-Person
+5,231,Chat
+6,125,Chat
+7,256,Email
+8,188,Phone Call
+9,551,Chat
+10,501,Chat
+11,560,Phone Call
+12,178,In-Person
+13,246,Chat
+14,382,Chat
+15,303,Chat
+16,428,Chat
+17,1,Phone Call
+18,64,Phone Call
+19,54,Phone Call
+20,225,Chat
+21,222,Email
+22,135,Email
+23,360,Chat
+24,261,Chat
+25,156,Email
+26,59,In-Person
+27,1,Email
+28,90,Chat
+29,182,Phone Call
+30,264,Phone Call
+31,386,Chat
+32,301,Phone Call
+33,17,In-Person
+34,552,In-Person
+35,144,Email
+36,578,Email
+37,54,Email
+38,488,Email
+39,225,Email
+40,200,Chat
+41,427,Phone Call
+42,294,Email
+43,485,In-Person
+44,358,Phone Call
+45,453,In-Person
+46,393,Chat
+47,262,Chat
+48,597,In-Person
+49,292,In-Person
+50,207,Chat
+51,244,Phone Call
+52,242,Email
+53,26,In-Person
+54,205,In-Person
+55,77,Phone Call
+56,375,Phone Call
+57,267,Chat
+58,581,Chat
+59,402,In-Person
+60,163,In-Person
+61,78,Email
+62,134,Chat
+63,354,In-Person
+64,21,Phone Call
+65,12,Email
+66,249,In-Person
+67,505,Email
+68,136,Email
+69,204,Email
+70,330,Phone Call
+71,90,Chat
+72,466,Phone Call
+73,81,Phone Call
+74,27,Phone Call
+75,475,Phone Call
+76,274,Phone Call
+77,412,Chat
+78,554,Email
+79,330,Email
+80,515,Email
+81,29,Phone Call
+82,537,Chat
+83,84,Phone Call
+84,446,Phone Call
+85,207,Email
+86,244,Email
+87,420,Chat
+88,288,In-Person
+89,257,Phone Call
+90,134,Phone Call
+91,287,In-Person
+92,115,Email
+93,60,In-Person
+94,434,Chat
+95,142,Email
+96,90,In-Person
+97,479,In-Person
+98,513,Chat
+99,18,Chat
+100,218,Phone Call
+101,481,Email
+102,513,Phone Call
+103,558,Chat
+104,423,Phone Call
+105,16,In-Person
+106,90,In-Person
+107,18,Email
+108,266,Email
+109,226,In-Person
+110,86,Chat
+111,542,Email
+112,240,Chat
+113,191,Chat
+114,248,In-Person
+115,36,Phone Call
+116,21,Chat
+117,62,In-Person
+118,288,In-Person
+119,584,Phone Call
+120,173,Phone Call
+121,240,Chat
+122,443,Email
+123,247,Phone Call
+124,304,Email
+125,296,Phone Call
+126,438,Chat
+127,541,Phone Call
+128,10,Email
+129,137,In-Person
+130,85,Email
+131,486,Phone Call
+132,495,Phone Call
+133,151,Phone Call
+134,135,Chat
+135,212,Email
+136,511,Chat
+137,291,Email
+138,238,Phone Call
+139,427,Email
+140,550,Chat
+141,263,In-Person
+142,354,Chat
+143,99,Phone Call
+144,567,Email
+145,95,Phone Call
+146,184,Phone Call
+147,368,In-Person
+148,161,Chat
+149,9,Phone Call
+150,284,In-Person
+151,480,Chat
+152,235,In-Person
+153,85,Email
+154,533,In-Person
+155,529,Phone Call
+156,560,Email
+157,155,Phone Call
+158,241,In-Person
+159,464,In-Person
+160,59,Email
+161,131,Chat
+162,559,In-Person
+163,163,Chat
+164,206,In-Person
+165,326,Email
+166,508,Email
+167,441,Phone Call
+168,140,In-Person
+169,91,Email
+170,71,In-Person
+171,209,In-Person
+172,288,Chat
+173,136,Phone Call
+174,119,In-Person
+175,350,Email
+176,377,Email
+177,31,Email
+178,34,Chat
+179,261,Chat
+180,441,Chat
+181,91,Email
+182,45,Chat
+183,600,Chat
+184,444,Email
+185,156,Phone Call
+186,357,Email
+187,324,In-Person
+188,264,Email
+189,202,In-Person
+190,198,In-Person
+191,342,Chat
+192,60,In-Person
+193,74,Email
+194,157,Chat
+195,187,Phone Call
+196,113,In-Person
+197,210,Chat
+198,194,In-Person
+199,75,Phone Call
+200,5,In-Person
+201,443,Email
+202,7,Chat
+203,424,Chat
+204,417,Phone Call
+205,41,Chat
+206,292,Chat
+207,436,Phone Call
+208,349,Email
+209,472,In-Person
+210,490,Phone Call
+211,458,Chat
+212,82,In-Person
+213,480,In-Person
+214,35,Chat
+215,483,Email
+216,285,Phone Call
+217,174,In-Person
+218,282,Chat
+219,1,Email
+220,209,Chat
+221,128,Chat
+222,594,Email
+223,432,Phone Call
+224,322,Chat
+225,556,Phone Call
+226,267,Phone Call
+227,368,Email
+228,376,Chat
+229,13,Email
+230,473,Chat
+231,567,Chat
+232,63,Chat
+233,28,Email
+234,560,In-Person
+235,12,Chat
+236,328,Phone Call
+237,552,Phone Call
+238,223,Email
+239,208,Phone Call
+240,195,Chat
+241,428,Email
+242,180,Email
+243,352,Chat
+244,319,Email
+245,423,Phone Call
+246,200,Chat
+247,220,Chat
+248,554,In-Person
+249,597,Chat
+250,174,Email
+251,49,Phone Call
+252,39,Phone Call
+253,1,Phone Call
+254,151,In-Person
+255,294,Chat
+256,358,Chat
+257,117,In-Person
+258,598,Chat
+259,234,Email
+260,72,In-Person
+261,119,Phone Call
+262,37,Chat
+263,430,Phone Call
+264,30,Phone Call
+265,371,Email
+266,452,Phone Call
+267,473,Chat
+268,210,Chat
+269,421,Phone Call
+270,416,Chat
+271,168,Chat
+272,58,Chat
+273,482,Email
+274,419,Chat
+275,60,Email
+276,288,In-Person
+277,388,Email
+278,164,Email
+279,189,In-Person
+280,403,In-Person
+281,230,In-Person
+282,548,In-Person
+283,341,Email
+284,341,In-Person
+285,398,Chat
+286,443,Phone Call
+287,323,Phone Call
+288,434,In-Person
+289,576,Email
+290,550,Chat
+291,485,Phone Call
+292,171,Phone Call
+293,464,In-Person
+294,222,Chat
+295,194,Email
+296,118,In-Person
+297,349,Phone Call
+298,565,Email
+299,251,Phone Call
+300,30,Chat
+301,490,Phone Call
+302,215,Phone Call
+303,370,Phone Call
+304,6,In-Person
+305,236,Chat
+306,76,Phone Call
+307,105,Phone Call
+308,289,In-Person
+309,148,Email
+310,577,Chat
+311,410,Email
+312,413,In-Person
+313,16,Email
+314,89,Chat
+315,562,Email
+316,340,Chat
+317,524,Chat
+318,211,In-Person
+319,434,In-Person
+320,207,In-Person
+321,78,Chat
+322,208,Email
+323,400,In-Person
+324,541,In-Person
+325,41,Email
+326,311,Email
+327,317,Phone Call
+328,84,Email
+329,155,Chat
+330,446,Email
+331,337,Chat
+332,125,Phone Call
+333,56,Chat
+334,308,Phone Call
+335,421,In-Person
+336,527,Email
+337,321,In-Person
+338,214,Chat
+339,145,Email
+340,27,Chat
+341,559,Chat
+342,505,Phone Call
+343,73,In-Person
+344,452,Chat
+345,98,In-Person
+346,525,Email
+347,155,Phone Call
+348,512,Email
+349,411,In-Person
+350,520,Phone Call
+351,11,Email
+352,282,Email
+353,231,In-Person
+354,105,Email
+355,541,Phone Call
+356,572,Phone Call
+357,227,Chat
+358,143,Chat
+359,69,Chat
+360,39,Email
+361,270,In-Person
+362,15,Email
+363,236,In-Person
+364,347,Email
+365,158,Chat
+366,336,Email
+367,526,Phone Call
+368,114,Chat
+369,111,In-Person
+370,437,In-Person
+371,445,Phone Call
+372,10,Email
+373,558,In-Person
+374,184,Phone Call
+375,418,Phone Call
+376,560,In-Person
+377,421,Email
+378,402,Phone Call
+379,514,Chat
+380,103,Chat
+381,10,Phone Call
+382,292,In-Person
+383,224,Email
+384,532,Chat
+385,383,Chat
+386,79,Phone Call
+387,467,Phone Call
+388,449,Phone Call
+389,457,Phone Call
+390,68,Chat
+391,209,Email
+392,375,In-Person
+393,490,Chat
+394,539,Chat
+395,125,Email
+396,502,Chat
+397,405,Phone Call
+398,371,Phone Call
+399,226,Email
+400,297,Chat
+401,48,Chat
+402,327,Chat
+403,332,Email
+404,470,Phone Call
+405,100,Chat
+406,519,Phone Call
+407,72,In-Person
+408,488,In-Person
+409,243,Email
+410,125,Phone Call
+411,438,Phone Call
+412,226,In-Person
+413,329,In-Person
+414,565,Email
+415,445,In-Person
+416,244,Email
+417,580,Email
+418,267,Phone Call
+419,81,Email
+420,309,Phone Call
+421,130,Phone Call
+422,353,Email
+423,311,Email
+424,518,In-Person
+425,428,Email
+426,358,Email
+427,390,Chat
+428,296,Chat
+429,487,Phone Call
+430,341,In-Person
+431,559,In-Person
+432,390,In-Person
+433,455,Email
+434,397,In-Person
+435,26,In-Person
+436,202,Chat
+437,57,Phone Call
+438,417,In-Person
+439,258,Email
+440,183,Chat
+441,145,Email
+442,548,In-Person
+443,568,Chat
+444,460,In-Person
+445,445,Phone Call
+446,579,Phone Call
+447,152,Chat
+448,136,In-Person
+449,278,Email
+450,533,Phone Call
+451,384,Chat
+452,420,Email
+453,81,Phone Call
+454,258,Email
+455,137,Phone Call
+456,460,Phone Call
+457,451,Chat
+458,215,Chat
+459,109,Phone Call
+460,338,Chat
+461,430,Phone Call
+462,183,Email
+463,334,Email
+464,446,Email
+465,247,Phone Call
+466,304,In-Person
+467,509,In-Person
+468,123,In-Person
+469,564,Phone Call
+470,307,In-Person
+471,554,Email
+472,192,Chat
+473,377,In-Person
+474,486,In-Person
+475,456,Phone Call
+476,365,Phone Call
+477,405,Chat
+478,298,In-Person
+479,275,In-Person
+480,567,Chat
+481,288,In-Person
+482,226,Chat
+483,50,Email
+484,104,In-Person
+485,360,Email
+486,12,Phone Call
+487,8,Email
+488,516,Chat
+489,573,Chat
+490,179,Email
+491,201,Phone Call
+492,572,Email
+493,361,Phone Call
+494,343,Email
+495,220,In-Person
+496,547,In-Person
+497,377,Phone Call
+498,277,Chat
+499,38,Phone Call
+500,439,Chat
+501,111,Phone Call
+502,547,Chat
+503,334,Phone Call
+504,107,Phone Call
+505,231,Email
+506,29,Phone Call
+507,307,Chat
+508,412,In-Person
+509,587,In-Person
+510,106,Phone Call
+511,286,In-Person
+512,360,Phone Call
+513,18,Chat
+514,382,Email
+515,10,Phone Call
+516,422,In-Person
+517,91,Chat
+518,246,Phone Call
+519,92,In-Person
+520,551,In-Person
+521,472,Phone Call
+522,105,Email
+523,561,Email
+524,329,Chat
+525,123,In-Person
+526,573,Chat
+527,463,Email
+528,284,Chat
+529,172,Email
+530,501,Chat
+531,146,Phone Call
+532,15,Email
+533,105,In-Person
+534,237,Email
+535,245,Phone Call
+536,306,Phone Call
+537,320,In-Person
+538,157,Email
+539,495,Phone Call
+540,274,Phone Call
+541,518,In-Person
+542,269,Phone Call
+543,498,Email
+544,592,Phone Call
+545,62,Email
+546,535,In-Person
+547,222,Chat
+548,379,In-Person
+549,121,Email
+550,175,Phone Call
+551,521,Phone Call
+552,28,In-Person
+553,433,Email
+554,43,Chat
+555,404,Phone Call
+556,152,Email
+557,425,In-Person
+558,394,Email
+559,465,In-Person
+560,396,Phone Call
+561,374,In-Person
+562,8,Chat
+563,175,Chat
+564,138,Phone Call
+565,483,Chat
+566,447,Chat
+567,104,Email
+568,275,Chat
+569,151,Phone Call
+570,450,Email
+571,48,Chat
+572,401,Email
+573,518,Phone Call
+574,25,Phone Call
+575,514,Chat
+576,194,Chat
+577,382,In-Person
+578,329,In-Person
+579,368,In-Person
+580,90,In-Person
+581,421,Phone Call
+582,110,Phone Call
+583,39,Chat
+584,150,In-Person
+585,599,In-Person
+586,526,Phone Call
+587,151,In-Person
+588,59,Chat
+589,302,Phone Call
+590,168,Phone Call
+591,57,In-Person
+592,547,Chat
+593,330,Chat
+594,357,Phone Call
+595,568,Chat
+596,284,Chat
+597,589,Phone Call
+598,258,Chat
+599,482,In-Person
+600,525,Phone Call
+601,525,Phone Call
+602,33,In-Person
+603,294,Phone Call
+604,429,Phone Call
+605,569,Phone Call
+606,450,In-Person
+607,494,Email
+608,128,Phone Call
+609,494,Phone Call
+610,513,In-Person
+611,232,Email
+612,316,Phone Call
+613,521,Chat
+614,315,Email
+615,365,In-Person
+616,296,In-Person
+617,523,Phone Call
+618,414,Chat
+619,352,Chat
+620,85,Chat
+621,418,Email
+622,342,In-Person
+623,31,Chat
+624,490,Email
+625,114,Chat
+626,522,Phone Call
+627,522,Phone Call
+628,158,In-Person
+629,572,Chat
+630,376,Phone Call
+631,129,Phone Call
+632,445,Chat
+633,486,Chat
+634,530,In-Person
+635,193,Email
+636,309,Email
+637,515,Email
+638,504,Email
+639,440,Email
+640,21,In-Person
+641,536,Phone Call
+642,210,Phone Call
+643,43,In-Person
+644,536,Chat
+645,460,Phone Call
+646,242,Phone Call
+647,237,Phone Call
+648,410,In-Person
+649,311,Phone Call
+650,47,Phone Call
+651,587,Email
+652,520,Phone Call
+653,317,Chat
+654,539,In-Person
+655,376,Phone Call
+656,44,Chat
+657,123,Email
+658,341,In-Person
+659,97,Chat
+660,75,In-Person
+661,551,In-Person
+662,290,Chat
+663,273,Email
+664,5,Email
+665,357,Chat
+666,423,Email
+667,429,Chat
+668,85,Chat
+669,325,Phone Call
+670,19,Chat
+671,50,Chat
+672,412,Email
+673,36,Email
+674,82,In-Person
+675,358,Chat
+676,330,Email
+677,287,Chat
+678,344,Phone Call
+679,502,Phone Call
+680,150,In-Person
+681,427,Chat
+682,366,In-Person
+683,192,Email
+684,289,Email
+685,320,Phone Call
+686,286,In-Person
+687,276,Email
+688,441,In-Person
+689,350,Chat
+690,36,Phone Call
+691,77,In-Person
+692,360,Email
+693,76,Email
+694,576,Email
+695,98,Phone Call
+696,228,In-Person
+697,334,In-Person
+698,591,Email
+699,65,In-Person
+700,371,Chat
+701,227,In-Person
+702,430,Chat
+703,210,Chat
+704,262,Phone Call
+705,346,In-Person
+706,269,Email
+707,189,Email
+708,590,Phone Call
+709,140,Phone Call
+710,16,In-Person
+711,453,Chat
+712,260,In-Person
+713,315,Chat
+714,431,Phone Call
+715,267,Email
+716,529,In-Person
+717,128,In-Person
+718,151,Phone Call
+719,289,Chat
+720,16,In-Person
+721,530,In-Person
+722,178,Email
+723,381,Chat
+724,330,Phone Call
+725,237,In-Person
+726,17,Phone Call
+727,377,In-Person
+728,131,Phone Call
+729,131,Email
+730,400,Email
+731,329,Phone Call
+732,318,In-Person
+733,578,Email
+734,45,In-Person
+735,411,Email
+736,456,Email
+737,484,Chat
+738,256,Phone Call
+739,162,Phone Call
+740,500,Phone Call
+741,18,Email
+742,530,Email
+743,373,Phone Call
+744,479,In-Person
+745,129,Email
+746,8,In-Person
+747,409,Chat
+748,403,Email
+749,262,Email
+750,279,Phone Call
+751,164,In-Person
+752,13,In-Person
+753,329,Chat
+754,100,Chat
+755,249,In-Person
+756,75,In-Person
+757,303,In-Person
+758,194,In-Person
+759,224,Phone Call
+760,396,Chat
+761,47,Chat
+762,326,Chat
+763,338,Phone Call
+764,548,In-Person
+765,404,Email
+766,413,Phone Call
+767,406,Chat
+768,224,In-Person
+769,319,In-Person
+770,310,Chat
+771,387,Phone Call
+772,428,Phone Call
+773,378,In-Person
+774,85,In-Person
+775,436,Chat
+776,548,In-Person
+777,316,Phone Call
+778,471,In-Person
+779,211,In-Person
+780,164,In-Person
+781,397,In-Person
+782,595,In-Person
+783,427,Phone Call
+784,580,Phone Call
+785,178,In-Person
+786,301,Chat
+787,333,Chat
+788,38,Chat
+789,547,Chat
+790,475,Phone Call
+791,152,Phone Call
+792,84,Email
+793,573,Chat
+794,97,In-Person
+795,168,Phone Call
+796,569,Chat
+797,540,Email
+798,551,Chat
+799,95,Email
+800,180,In-Person
+801,265,Phone Call
+802,218,Phone Call
+803,311,Chat
+804,169,In-Person
+805,172,Email
+806,449,Email
+807,567,Email
+808,534,In-Person
+809,121,In-Person
+810,321,Phone Call
+811,567,Email
+812,542,Phone Call
+813,137,Email
+814,297,Chat
+815,320,Email
+816,444,Chat
+817,191,Phone Call
+818,103,Phone Call
+819,88,Email
+820,40,In-Person
+821,497,In-Person
+822,585,In-Person
+823,442,Email
+824,257,Chat
+825,137,Email
+826,140,In-Person
+827,128,In-Person
+828,350,Email
+829,357,Chat
+830,52,Phone Call
+831,298,Email
+832,512,In-Person
+833,193,Chat
+834,463,Phone Call
+835,89,Email
+836,384,Phone Call
+837,332,Email
+838,500,Chat
+839,438,Email
+840,507,Chat
+841,400,Email
+842,374,Email
+843,532,Email
+844,113,Phone Call
+845,196,In-Person
+846,208,In-Person
+847,447,In-Person
+848,507,Email
+849,207,In-Person
+850,229,Email
+851,423,Phone Call
+852,107,In-Person
+853,224,In-Person
+854,125,In-Person
+855,139,Email
+856,321,Email
+857,85,Phone Call
+858,315,In-Person
+859,393,Email
+860,78,Chat
+861,384,Email
+862,30,Phone Call
+863,589,Chat
+864,423,Email
+865,87,Email
+866,470,In-Person
+867,544,Email
+868,572,Email
+869,561,Email
+870,23,Phone Call
+871,181,In-Person
+872,407,In-Person
+873,484,Phone Call
+874,523,In-Person
+875,491,Chat
+876,482,Phone Call
+877,52,Chat
+878,158,Phone Call
+879,47,Email
+880,242,In-Person
+881,560,Chat
+882,232,Email
+883,294,Chat
+884,113,In-Person
+885,74,Email
+886,246,Chat
+887,499,Chat
+888,142,Chat
+889,79,In-Person
+890,196,Email
+891,531,Phone Call
+892,24,Phone Call
+893,114,Email
+894,478,Email
+895,133,Chat
+896,129,Chat
+897,408,In-Person
+898,269,Email
+899,111,In-Person
+900,458,Email
+901,261,In-Person
+902,360,Phone Call
+903,168,Phone Call
+904,497,Chat
+905,168,In-Person
+906,471,Chat
+907,150,In-Person
+908,366,In-Person
+909,199,In-Person
+910,257,Phone Call
+911,441,Email
+912,53,Chat
+913,16,In-Person
+914,444,In-Person
+915,161,Chat
+916,430,In-Person
+917,266,In-Person
+918,45,In-Person
+919,176,Chat
+920,58,Phone Call
+921,72,Phone Call
+922,408,Email
+923,164,Phone Call
+924,151,Chat
+925,583,Chat
+926,485,In-Person
+927,316,Phone Call
+928,98,In-Person
+929,350,Phone Call
+930,168,Chat
+931,454,Chat
+932,256,Email
+933,180,Chat
+934,466,Email
+935,18,Email
+936,575,Chat
+937,441,In-Person
+938,345,Email
+939,505,Phone Call
+940,365,Email
+941,122,Phone Call
+942,445,Phone Call
+943,275,Email
+944,377,Phone Call
+945,229,Chat
+946,373,Email
+947,42,Email
+948,269,Phone Call
+949,304,Chat
+950,485,Chat
+951,380,Email
+952,84,Phone Call
+953,11,Email
+954,313,Chat
+955,581,Phone Call
+956,303,Chat
+957,331,Chat
+958,284,Chat
+959,148,Phone Call
+960,570,Phone Call
+961,170,Email
+962,3,Phone Call
+963,532,Phone Call
+964,214,Chat
+965,201,In-Person
+966,246,Chat
+967,566,Phone Call
+968,409,Email
+969,6,Chat
+970,367,Email
+971,151,Chat
+972,246,Phone Call
+973,297,In-Person
+974,282,In-Person
+975,477,In-Person
+976,264,Chat
+977,244,Phone Call
+978,496,Chat
+979,525,Email
+980,442,Phone Call
+981,480,In-Person
+982,206,In-Person
+983,335,In-Person
+984,94,In-Person
+985,357,Chat
+986,42,In-Person
+987,190,Email
+988,31,Chat
+989,138,Chat
+990,437,Email
+991,393,Chat
+992,4,Email
+993,443,Phone Call
+994,138,Chat
+995,97,Phone Call
+996,179,In-Person
+997,537,Email
+998,113,Chat
+999,521,Phone Call
+1000,569,Phone Call

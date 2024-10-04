@@ -1,0 +1,115 @@
+product_id,product_name,product_category_id
+1,Glad ForceFlex Trash Bags,1
+2,Seventh Generation Liquid Laundry Detergent,1
+3,Tide Pods Laundry Detergent,1
+4,Gain Flings! Laundry Detergent Pods,1
+5,Nature Valley Crunchy Granola Bars,1
+6,Quaker Instant Oatmeal,1
+7,Lipton Iced Tea Bags,1
+8,Starbucks Pike Place Roast Ground Coffee,1
+9,Green Mountain Coffee Roasters Breakfast Blend,1
+10,Nestle Toll House Chocolate Chip Cookie Dough,1
+11,Frito-Lay Variety Pack,1
+12,Kind Bars Variety Pack,1
+13,Simply Cheetos Puffs,1
+14,Blue Diamond Almonds,1
+15,Pop-Tarts Frosted Strawberry,1
+16,Nature's Bakery Fig Bars,1
+17,Lara Bar,1
+18,Red Bull Energy Drink,1
+19,Gatorade Thirst Quencher Powder,1
+20,Pampers Swaddlers Diapers,2
+21,Huggies Little Snugglers Diapers,2
+22,Babyganics Alcohol-Free Hand Sanitizer,2
+23,Chicco Bravo Quick-Fold Travel System,2
+24,Graco Pack 'n Play Portable Playard,2
+25,Fisher-Price Rock 'n Play Sleeper,2
+26,Infantino Flip 4-in-1 Convertible Carrier,2
+27,Philips Avent Natural Baby Bottle,2
+28,Munchkin Soft-Tip Infant Spoon,2
+29,Medela Pump In Style Advanced Breast Pump,2
+30,BabyBjörn Bouncer Balance Soft,2
+31,Hatch Baby Rest Sound Machine,2
+32,Cuddlebug Baby Wrap Carrier,2
+33,Skip Hop Zoo Little Kid Backpack,2
+34,Boppy Original Nursing Pillow,2
+35,Summer Infant 3Dlite Convenience Stroller,2
+36,Aquaphor Baby Healing Ointment,2
+37,Evenflo Pivot Modular Travel System,2
+38,OXO Tot Flippy Snack Cup,2
+39,Tommee Tippee Closer to Nature Bottle,2
+40,Apple AirPods Pro,3
+41,Samsung Galaxy Buds Live,3
+42,Bose QuietComfort 35 II Wireless Headphones,3
+43,Sony WH-1000XM4 Wireless Noise Cancelling Headphones,3
+44,Razer Kraken Gaming Headset,3
+45,Logitech G502 HERO Gaming Mouse,3
+46,TP-Link Deco Whole Home Mesh WiFi System,3
+47,Amazon Fire TV Stick 4K,3
+48,Roku Streaming Stick+,3
+49,Philips Hue White and Color Ambiance LED Smart Bulbs,3
+50,Ring Video Doorbell,3
+51,Anker PowerCore 10000 Portable Charger,3
+52,SanDisk Ultra 64GB microSDXC Card,3
+53,Apple Watch Series 6,3
+54,Fitbit Charge 4 Fitness Tracker,3
+55,Levi's 511 Slim Fit Jeans,4
+56,Nike Air Max 270 Sneakers,4
+57,Adidas Originals Superstar Sneakers,4
+58,Calvin Klein Women's Modern Cotton Bralette,4
+59,Hanes Men's ComfortSoft T-Shirt,4
+60,Under Armour Men's Tech 2.0 T-Shirt,4
+61,Columbia Women's Arcadia II Jacket,4
+62,Amazon Essentials Men's Fleece Sweatpants,4
+63,The North Face Men's Resolve Waterproof Jacket,4
+64,Puma Women's Essential T-Shirt,4
+65,Champion Men's Powerblend Fleece Pullover Hoodie,4
+66,Crocs Classic Clogs,4
+67,Wrangler Authentics Men's Classic 5-Pocket Jeans,4
+68,Fruit of the Loom Women's Eversoft Cotton Briefs,4
+69,Baleaf Women's High Waist Yoga Pants,4
+70,Hollister Women's Ripped Skinny Jeans,4
+71,Reebok Men's CrossFit Speed TR 2.0 Sneakers,4
+72,Champion Women's Graphic Tee,4
+73,Tommy Hilfiger Men's Iconic Hoodie,4
+74,Levi's Women's 720 High Rise Super Skinny Jeans,4
+75,HP LaserJet Pro M15w Wireless Printer,5
+76,Brother HL-L2350DW Compact Laser Printer,5
+77,Amazon Basics 8.5 x 11-Inch Printer Paper,5
+78,Post-it Super Sticky Notes,5
+79,BIC Cristal Xtra Smooth Ballpoint Pen,5
+80,Sharpie Permanent Markers,5
+81,Pencil Case with Zipper,5
+82,Fujitsu ScanSnap iX1500 Document Scanner,5
+83,Logitech M510 Wireless Mouse,5
+84,Samsung Galaxy Tab S6 Lite,5
+85,ASUS Chromebook Flip C434,5
+86,Acer Aspire 5 Slim Laptop,5
+87,Microsoft Surface Pro 7,5
+88,Apple MacBook Air,5
+89,Lenovo ThinkPad X1 Carbon,5
+90,Dell XPS 13,5
+91,TP-Link Kasa Smart WiFi Plug,5
+92,Anker Wireless Charger,5
+93,Kensington SmartFit Conform Back Support,5
+94,Fellowes Powershred 79Ci Paper Shredder,5
+95,DEWALT 20V MAX Cordless Drill Combo Kit,6
+96,BLACK+DECKER LDX120C 20V MAX Lithium Ion Drill/Driver,6
+97,Kreg Pocket Hole Jig K5,6
+98,DAP ALEX Plus Spackling,6
+99,Rust-Oleum 1979502 Stops Rust Spray Paint,6
+100,Gorilla Super Glue Gel,6
+101,3M Command Damage-Free Hanging Strips,6
+102,Ryobi P731 Cordless Electric Blower,6
+103,Greenworks 40V 16-Inch Cordless Chainsaw,6
+104,Craftsman CMXEVBE17595 12 Gallon Wet/Dry Vacuum,6
+105,CRAFTSMAN Mechanics Tool Set,6
+106,Makita 5007MG 7-1/4-Inch Circular Saw,6
+107,Bosch 4100-09 10-Inch Table Saw,6
+108,Stanley 42-480 12-Inch Adjustable Wrench,6
+109,Milwaukee 48-22-8802 25-Foot Tape Measure,6
+110,Klein Tools 11055 Wire Cutter and Stripper,6
+111,Worx WG520 Turbine 600 Electric Leaf Blower,6
+112,Festool 575389 Rotex 150 FEQ Random Orbit Sander,6
+113,Irwin VISE-GRIP Locking Pliers,6
+114,RYOBI P737 18V One+ Cordless 1/2 in. Impact Wrench,6
