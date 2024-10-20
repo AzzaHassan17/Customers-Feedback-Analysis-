@@ -51,7 +51,7 @@ Special thanks to everyone who contributed to this project and the resources tha
 
 ## Project Information
 
-** (Team 1)**  
+**(Team 1)**  
 **Group:** CAI1_AIS4_S1e
 **Presentation:** [Here](link-to-presentation)  
 **Video (3 minutes):** [Here](https://drive.google.com/file/d/1G2rbzWtya3uSWJkUtrYOyqFDRL3SeAvh/view?usp=sharing)
