@@ -19,6 +19,8 @@ A comprehensive feedback analysis system that utilizes data engineering and natu
 - [Goals](#goals)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [Project Information](#project-information)
+  
 
 ## Introduction
 
@@ -46,3 +48,10 @@ Contributions are welcome! Please follow these steps to contribute:
 ## Acknowledgments
 Special thanks to everyone who contributed to this project and the resources that guided its development.
 
+
+## Project Information
+
+** (Team 1)**  
+**Group:** CAI1_AIS4_S1e
+**Presentation:** [Here](link-to-presentation)  
+**Video (3 minutes):** [Here](https://drive.google.com/file/d/1G2rbzWtya3uSWJkUtrYOyqFDRL3SeAvh/view?usp=sharing)
