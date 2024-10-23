@@ -3,7 +3,7 @@
 A comprehensive feedback analysis system that utilizes data engineering and natural language processing (NLP) to enhance customer satisfaction and inform strategic decision-making.
 
 ## Team members:
-- Azza Hassan 
+- Azza Hassan (Team Leader)
 - Jana Mahmoud
 - Habiba Yousri
 - Olivia Talaat 
@@ -53,5 +53,5 @@ Special thanks to everyone who contributed to this project and the resources tha
 
 **(Team 1)**  
 **Group:** CAI1_AIS4_S1e
-**Presentation:** [Here](link-to-presentation)  
+**Presentation:** [Here](https://docs.google.com/presentation/d/1xpzbI-miDXQ3HaGDBhjMIqRhLIA4KDJ7/edit?usp=sharing&ouid=105119140663075148320&rtpof=true&sd=true)  
 **Video (3 minutes):** [Here](https://drive.google.com/file/d/1G2rbzWtya3uSWJkUtrYOyqFDRL3SeAvh/view?usp=sharing)
